@@ -1,7 +1,11 @@
+Forked from https://github.com/themoonrat/webgl-benchmark 
+
+This fork is the same but has updated libraries.
+
 # webgl-benchmark
 > Benchmark WebGL performance using different JavaScript rendering/game engines, such as Pixi and Phaser
 
-https://themoonrat.github.io/webgl-benchmark/
+https://lemon07r.github.io/webgl-benchmark/
 
 ## Background
 
@@ -19,7 +23,7 @@ Scenes covered range from testing raw sprite rendering performance, to testing g
 
 ## Usage
 
-You can find the latest build at https://themoonrat.github.io/webgl-benchmark/
+You can find the latest build at https://lemon07r.github.io/webgl-benchmark/
 
 You can also clone this repo and run `npm run start` for a development build, or `npm run build` for a production build.
 
